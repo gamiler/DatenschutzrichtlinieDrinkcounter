@@ -16,7 +16,7 @@ Patrick Gam
 Kreuzgasse 21,
 2165, Drasenhofen
 E-Mail-Adresse: 
-patrick.gam@gmail.com
+gamdev@gmx.at
 Übersicht der Verarbeitungen
 Die nachfolgende Übersicht fasst die Arten der verarbeiteten Daten und die Zwecke ihrer Verarbeitung zusammen und verweist auf die betroffenen Personen.
 Maßgebliche Rechtsgrundlagen
